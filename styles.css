@@ -3,4 +3,17 @@ body {
     background-color: #638edd;
     color: #594ccf;
     text-align: center;
+    height: 100vh;
 }
+a {
+    color: blue;
+    font-size: 20px; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #594ccf;
+}
+
